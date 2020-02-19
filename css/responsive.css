@@ -44,7 +44,7 @@
     width: 100%;
   }
   .border-right {
-
+    border: 0px;
   }
   #details div {
     height: auto;
