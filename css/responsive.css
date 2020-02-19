@@ -10,7 +10,7 @@
   }
 }
 
-@media (max-width: 900px){
+@media (min-width: 900px){
   body p {
     font-size: 85%;
   }
